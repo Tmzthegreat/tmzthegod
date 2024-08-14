@@ -18,6 +18,6 @@ Aim selector by distance
 Aim to the closest target
 
 
-If you have any question and Looking For Compiled Version please join https://discord.gg/mgZEZM3vz6
+If you have any question and Looking For Compiled Version please join [https://discord.gg/mgZEZM3vz6](https://discord.gg/K6hsTdEerX)
 
 Thanks to Liv for health bar design and RequestFX for the Imgui menu design
